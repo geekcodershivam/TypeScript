@@ -68,6 +68,12 @@ Type Annotations and Type Inference
 - Annotations : code we add to tell ts what type of value a variable will refer to.
 - Inference : ts tries to figure out what type of value a variable refers to.
 
+```ts
+//Inference
+const color:string='red';
+const name:string="Shivam"
+```
+
 
 
 
